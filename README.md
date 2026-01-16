@@ -27,8 +27,8 @@ A modern, responsive scheduling platform clone built with React, Node.js, and My
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/ak2patel/Cal.git
-cd Cal
+git clone https://github.com/ak2patel/calclone.git
+cd calclone
 ```
 
 ### 2. Setup Backend
